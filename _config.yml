@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Jaekoo Kang"
 title_separator          : "-"
 name                     : &name "Jaekoo Kang"
-description              : &description "Ph.D. Candidate at CUNY Graduate Center"
+description              : &description "Speech-Language-Hearing Sciences"
 url                      : https://jaekookang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jaekookang/academicpages.github.io"
+repository               : "jaekookang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jaekoo_Kang"
+  researchgate     : "https://www.researchgate.net/profile/Jaekoo_Kang"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
