@@ -11,7 +11,7 @@ title                    : "Jaekoo Kang"
 title_separator          : "-"
 name                     : &name "Jaekoo Kang"
 description              : &description "Speech-Language-Hearing Sciences"
-url                      : https://jaekookang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jaekookang.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaekookang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "Jaekoo Kang"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Speech-Language-Hearing Sciences program, CUNY Graduate Center"
-  location         : "UCA/Korea"
+  location         : "USA/Korea"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jaekookang"
+  github           : jaekookang
   google_plus      :
   keybase          :
   instagram        :
@@ -121,8 +121,11 @@ author:
 include:
   - .htaccess
   - _pages
+  - _speechtech
+  - _code
   - files
 exclude:
+  - "*.ipynb"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -209,15 +212,17 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _speechtech
   - scope:
       path: ""
-      type: teaching
+      type: speechtech
     values:
       layout: single
       author_profile: true
+      read_time: true
       share: true
       comments: true
+      related: true
   # _publications
   - scope:
       path: ""

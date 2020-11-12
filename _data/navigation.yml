@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Visualizations"
-    url: /visualizations/
+  - title: "SpeechTech"
+    url: /speechtech/
     
   - title: "Code"
     url: /code/
-    
-  # - title: "Publications"
-  #   url: /publications/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Publications"
+    url: /publications/
