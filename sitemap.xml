@@ -3,17 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jaekookang.github.io/blog/machine_learning_deep_learning/invertible_neural_networks/2020-11-13-flow-inn/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/machine_learning_deep_learning/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/machine_learning_deep_learning/normalizing_flow/2020-11-13-normalizing-flow-01/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaekookang.github.io/blog/about/jaekoo_kang/</loc>
     <lastmod>2017-12-20T11:53:49-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://jaekookang.github.io/blog/about/</loc>
-    <lastmod>2017-12-20T11:53:49-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/</loc>
     <lastmod>2017-12-20T11:53:49-07:00</lastmod>
   </url>
   
