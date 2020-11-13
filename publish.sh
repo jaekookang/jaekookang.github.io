@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# This script automate update website and publish to gh-pages
+#
 # 20200-11-13 jaekoo kang
 # See: https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-user-or-organization-pages
 

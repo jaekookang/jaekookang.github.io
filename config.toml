@@ -7,3 +7,8 @@ pygmentsCodeFences=true
 pygmentsUseClasses=true
 canonifyURLs=true
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

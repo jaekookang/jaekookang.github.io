@@ -10,7 +10,7 @@ outputs:
 ---
 
 
-<img src="jaekoo_kang.png"></img>
+<div style="display:inline-flex"><img src="jaekoo.JPG" width="100"></img></div>
 
 
 -   Email: &#106;&#97;&#101;&#107;&#111;&#111;&#46;&#106;&#107;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
