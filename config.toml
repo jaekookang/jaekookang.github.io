@@ -6,5 +6,4 @@ theme = "berbera"
 pygmentsCodeFences=true
 pygmentsUseClasses=true
 canonifyURLs=true
-publishDir="docs"
 disableKinds = ["taxonomy", "taxonomyTerm"]
