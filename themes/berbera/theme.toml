@@ -5,11 +5,12 @@ tags = ["bootstrap", "blog", "font awesome"]
 features = ["responsive", "blog"]
 min_version = 0.25
 
+
 [author]
   name = "Jaekoo Kang"
   homepage = "https://jaekookang.me"
 
-[based on]
+[based]
   name = "Alan Orth"
   homepage = "https://englishbulgaria.net"
 
