@@ -23,6 +23,7 @@ _prev
 
 # Never want to push up rendered docs to master
 docs/
+public/
 
 # PySpark artifacts
 */spark-warehouse/*
