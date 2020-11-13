@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about - Jaekoo Kang</title>
+    <link>https://jaekookang.me/about/</link>
+    <description></description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2017 11:53:49 -0700</lastBuildDate>
+    
+        <atom:link href="https://jaekookang.me/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Jaekoo Kang, 강 재 구.</title>
+      <link>https://jaekookang.me/about/jaekoo_kang/</link>
+      <pubDate>Wed, 20 Dec 2017 11:53:49 -0700</pubDate>
+      
+      <guid>https://jaekookang.me/about/jaekoo_kang/</guid>
+      <description>Email: jaekoo.jk@gmail.com Twitter: @jkang ResearchGate: Jaekoo Kang  Education  Ph.D. Candidate in Speech-Language-Hearing Sciences, The Graduate Center, City University of New York, USA. M.Phil., Speech-Language-Hearing Sciences, The Graduate Center, City University of New York, USA. M.A., English Linguistics (ABD), Korea University, Seoul, Korea. B.A., English Language and Literature, Korea University, Seoul, Korea.  Recent Academic Experience  Research Assistance, Speech-Production-Acoustics-Perception-Lab, CUNY Graduate Center (Link). Research Assistance, Haskins Laboratories (Link).</description>
+    </item>
+    
+  </channel>
+</rss>

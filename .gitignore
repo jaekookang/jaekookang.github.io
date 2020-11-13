@@ -22,7 +22,7 @@ _prev
 */.ipynb_checkpoints/*
 
 # Never want to push up rendered docs to master
-docs/
+# docs/
 
 # PySpark artifacts
 */spark-warehouse/*
