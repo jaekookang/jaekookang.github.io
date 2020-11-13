@@ -1,0 +1,231 @@
+{{ define "main" }}
+<main>
+    <div class="homepage">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>
+                    <!-- <span class="minor_line">Notes On Using</span> -->
+                    <br>
+                    <span class="major_line">Speech Science &amp; Technology</span>
+                    <br>
+                    <span class="minor_line">For the better understanding of human speech</span>
+                </h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12 blurb">
+                <p>
+                    <a href="about/jaekoo_kang/">I am a PhD candidate in Speech Science</a> at the Graduate Center, City University of New York. I enjoy writing, coding and making applications for understanding how humans produce and perceive speech.
+                </p>
+
+            </div>
+        </div>
+
+<!-- Speech Data Analysis ------------------------------------------------------------------------- -->
+
+        <div class="row" id="speech_data_analysis">
+            <div class="col-sm-12">
+                <h3 class="category_header">Speech Data Anaylsis</h3>
+            </div>
+        </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Basics</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/speech_data_analysis/basics/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Vowels &amp; Consonants</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/speech_data_analysis/vowels_consonants/").Reverse }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Speech Production</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/speech_data_analysis/speech_production/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+<!--             <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Forced Alignment</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/machine_learning/preprocessing_structured_data/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Speech Recognition</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/machine_learning/preprocessing_images/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Speech Synthesis</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/machine_learning/preprocessing_text/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Voice Conversion</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/machine_learning/preprocessing_dates_and_times/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Speech Representations</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/machine_learning/feature_engineering/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Data processing</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/machine_learning/feature_engineering/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+
+
+<!--  Machine Learning & Deep Learning ------------------------------------------------------------------------- -->
+
+        <div class="row" id="deep_learning">
+            <div class="col-sm-12">
+                <h3 class="category_header">Machine Learning &amp; Deep learning</h3>
+            </div>
+        </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Normalizing Flow</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/machine_learning_deep_learning/normalizing_flow/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="card">
+                        <h4 class="card-header">Invertible Neural Networks</h4>
+                        <div class="card-body">
+                            <ul>
+                                {{ range (where .Pages "File.Dir" "in" "/machine_learning_deep_learning/invertible_neural_networks/").ByTitle }}
+                                <li>
+                                    <a href="{{.Permalink}}">{{.Title}}</a>
+                                </li>
+                                {{ end }}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+    </div>
+
+</main>
+{{ end }}
