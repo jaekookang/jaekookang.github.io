@@ -12,10 +12,28 @@
     
     <item>
       <title>Test</title>
-      <link>https://jaekookang.github.io/blog/speech_data_analysis/basics/test/</link>
+      <link>https://jaekookang.github.io/blog/speech_data_analysis/basics/first/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jaekookang.github.io/blog/speech_data_analysis/basics/test/</guid>
+      <guid>https://jaekookang.github.io/blog/speech_data_analysis/basics/first/</guid>
+      <description>This is a test</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://jaekookang.github.io/blog/speech_data_analysis/basics/second/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaekookang.github.io/blog/speech_data_analysis/basics/second/</guid>
+      <description>This is a test</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://jaekookang.github.io/blog/speech_data_analysis/basics/third/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaekookang.github.io/blog/speech_data_analysis/basics/third/</guid>
       <description>This is a test</description>
     </item>
     

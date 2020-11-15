@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jaekookang.github.io/blog/machine_learning_deep_learning/invertible_neural_networks/2020-11-13-flow-inn/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+    <loc>https://jaekookang.github.io/blog/blogs/blog_main/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/blogs/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jaekookang.github.io/blog/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/projects/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/projects/project_main/</loc>
+    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/machine_learning_deep_learning/invertible_neural_networks/2020-11-13-flow-inn/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +48,17 @@
   </url>
   
   <url>
-    <loc>https://jaekookang.github.io/blog/speech_data_analysis/basics/test/</loc>
+    <loc>https://jaekookang.github.io/blog/speech_data_analysis/basics/first/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/speech_data_analysis/basics/second/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jaekookang.github.io/blog/speech_data_analysis/basics/third/</loc>
     <lastmod>2020-11-13T00:00:00+00:00</lastmod>
   </url>
   
