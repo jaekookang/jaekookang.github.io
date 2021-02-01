@@ -30,7 +30,7 @@ echo "Generating site"
 bundle exec jekyll build
 
 echo "Updating gh-pages branch"
-cd _site && git pull
+cd _site && git pull  #  <-- This step is important due to CNAME
 git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
 
 echo "Pushing to github"
