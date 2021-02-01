@@ -10,6 +10,7 @@ redirect_from:
 
 
 
+
 # Research Interests
 - Production perception
 - Multimodal Speech synthesis
@@ -33,6 +34,13 @@ redirect_from:
 - python ema viewer
 - artic data extractor
 - artic data processor
+- invertible neural networks
+- ucm simulator
+- joint arm ucm
+- linear transformation
+- mnist grad cam
+- RL cart pole
+
 
 
 # Favorite Tools
