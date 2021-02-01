@@ -1,8 +1,11 @@
 # Personal website
 
+**TODO: edit `publish.sh` based on previous website using hugo**
+This is due to the frequent error occuring when pushing commits to gh-pages branch.
+
+
 ## Log
 - 2021-02-01 first uploaded
-
 
 ## Note
 - Local build

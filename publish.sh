@@ -1,16 +1,38 @@
-# 
-# To run, just type this: $ ./deploy.sh "Your Commit Message Here"
-#
-# See: https://scriptedtea.com/tech/how-to-deploy-jekyll-to-github/
+#!/bin/sh
 
-if [[ -z "$1" ]]; then
-  echo "Please enter a git commit message"
-  exit
+# This script automate update website and publish to gh-pages
+#
+# 2020-11-13 jkang
+# 2021-02-01 updated 
+#
+# See: https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-user-or-organization-pages
+
+
+if [ "`git status -s`" ]
+then
+    echo "The working directory is dirty. Please commit any pending changes."
+    exit 1;
 fi
 
-cd _site && \
-git add . && \
-git commit -m "$1" && \
-git push origin gh-pages && \
-cd .. && \
-echo "Successfully built and pushed gh-pages to Github."
+echo "Deleting old publication"
+rm -rf _site
+mkdir _site
+git worktree prune
+rm -rf .git/worktrees/_site/
+
+echo "Checking out gh-pages branch into _site"
+git worktree add -B gh-pages _site origin/gh-pages
+
+echo "Removing existing files"
+rm -rf _site/*
+
+echo "Generating site"
+bundle exec jekyll build
+
+echo "Updating gh-pages branch"
+cd _site && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+
+echo "Pushing to github"
+git push --all
+
+cd ..
