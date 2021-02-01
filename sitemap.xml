@@ -1,75 +1,139 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/blogs/blog_main/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/blogs/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/projects/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/projects/project_main/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/machine_learning_deep_learning/invertible_neural_networks/2020-11-13-flow-inn/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/machine_learning_deep_learning/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/machine_learning_deep_learning/normalizing_flow/normalizing-flow-01/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/speech_data_analysis/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/speech_data_analysis/basics/first/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/speech_data_analysis/basics/second/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/speech_data_analysis/basics/third/</loc>
-    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/about/jaekoo_kang/</loc>
-    <lastmod>2017-12-20T11:53:49-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jaekookang.github.io/blog/about/</loc>
-    <lastmod>2017-12-20T11:53:49-07:00</lastmod>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://jaekookang.me/portfolio/portfolio-1/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/portfolio/portfolio-2/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/posts/2012/08/blog-post-1/</loc>
+<lastmod>2012-08-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/posts/2013/08/blog-post-2/</loc>
+<lastmod>2013-08-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/posts/2014/08/blog-post-3/</loc>
+<lastmod>2014-08-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/posts/2012/08/blog-post-4/</loc>
+<lastmod>2015-08-14T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/posts/2012/08/blog-post-4/</loc>
+<lastmod>2199-01-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/publication/2009-10-01-paper-title-number-1</loc>
+<lastmod>2009-10-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/publication/2010-10-01-paper-title-number-2</loc>
+<lastmod>2010-10-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/publication/2015-10-01-paper-title-number-3</loc>
+<lastmod>2015-10-01T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/talks/2012-03-01-talk-1</loc>
+<lastmod>2012-03-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/talks/2013-03-01-tutorial-1</loc>
+<lastmod>2013-03-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/talks/2014-02-01-talk-2</loc>
+<lastmod>2014-02-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/talks/2014-03-01-talk-3</loc>
+<lastmod>2014-03-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/teaching/2014-spring-teaching-1</loc>
+<lastmod>2014-01-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/teaching/2015-spring-teaching-1</loc>
+<lastmod>2015-01-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/archive-layout-with-content/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/categories/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/collection-archive/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/cv/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/markdown/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/non-menu-page/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/page-archive/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/portfolio/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/publications/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/sitemap/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/tags/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/talkmap.html</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/talks/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/teaching/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/terms/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/year-archive/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/markdown_generator/</loc>
+</url>
+<url>
+<loc>https://jaekookang.me/files/kang_cv_2020-12-11.pdf</loc>
+<lastmod>2020-12-11T10:48:12-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/files/paper1.pdf</loc>
+<lastmod>2021-01-31T17:14:51-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/files/paper2.pdf</loc>
+<lastmod>2021-01-31T17:14:51-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/files/paper3.pdf</loc>
+<lastmod>2021-01-31T17:14:51-08:00</lastmod>
+</url>
+<url>
+<loc>https://jaekookang.me/talkmap/map.html</loc>
+<lastmod>2021-01-31T17:14:51-08:00</lastmod>
+</url>
 </urlset>
