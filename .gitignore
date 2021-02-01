@@ -1,6 +1,7 @@
 # Custom
 _prev
 .DS_Store
+_site
 
 # Binaries for programs and plugins
 *.exe
