@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-
+<img src="https://jaekookang.me/images/jaekoo_kang.png" alt="jaekoo_kang" width="500">
 
 
 # Research Interests
-- Production perception
-- Multimodal Speech synthesis
-- Automatic speech recgonition
+- Human speech production and perception
+- Multimodal speech-text representation
+- Machine learning and deep learning based language understanding
 
-# Projects
+# Projects & Explorations
 
-| Name        | Status      | Date     |  Description         |
-| ----------- | ----------- | -------- | ---------------------| 
-| Header      | Title       |          |                      |
-| Paragraph   | Text        |          |                      |
+| Name        | Status      |  Description         | Link  |
+| ----------- | ----------- | ---------------------| ----- |
+| deepfake | on going | ![shrek](https://jaekookang.me/images/shrek.gif)  | <a href="https://colab.research.google.com/drive/1oMV186geYkiGmSbYtftTzQ16PH2Tlcsm?usp=sharing)" target="_blank">Link</a> |
+|    | on going    |        |   |
 
 - p2fa
 - forced aligner
