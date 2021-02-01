@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jaekoo Kang 강 재 구"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-This is Jaekoo Kang's page
+
+
+# Research Interests
+- Production perception
+- Multimodal Speech synthesis
+- Automatic speech recgonition
+
+# Projects
+
+| Name        | Status      | Date     |  Description         |
+| ----------- | ----------- | -------- | ---------------------| 
+| Header      | Title       |          |                      |
+| Paragraph   | Text        |          |                      |
+
+- p2fa
+- forced aligner
+- getVOT
+- inversion
+- speech VAE
+- speech GAN
+- real-time speech vis (py)
+- HTK dict tool
+- python ema viewer
+- artic data extractor
+- artic data processor
+
+
+# Favorite Tools
+

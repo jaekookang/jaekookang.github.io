@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaekoo Kang 강 재 구"
+title                    : "강 재 구"
 title_separator          : "-"
 name                     : &name "Jaekoo Kang"
 description              : &description "Ph.D. Candidate at CUNY Graduate Center"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jaekoo Kang"
-  avatar           : "profile.png"
-  bio              : "Speech scientist and ML/DL enthusiast"
+  avatar           : "profile_me.jpg"
+  bio              : "Ph.D. Candidate in Speech Science at CUNY Graduate Center, NY USA"
   location         : "USA/Korea"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jaekookang"
+  linkedin         : "jaekookang"
   orcid            : 
   pinterest        :
   soundcloud       :
