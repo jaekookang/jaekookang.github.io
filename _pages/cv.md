@@ -11,5 +11,8 @@ redirect_from:
 
 Download: [Link](https://jaekookang.me/files/kang_cv_2020-12-11.pdf)
 
-<iframe src="http://docs.google.com/gview?url=https://jaekookang.me/files/kang_cv_2020-12-11.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+<!-- <iframe src="https://docs.google.com/gview?url=https://jaekookang.me/files/kang_cv_2020-12-11.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe> -->
 
+<!-- <iframe src="https://jaekookang.me/files/kang_cv_2020-12-11.pdf" style="width:718px; height:700px;" frameborder="0" allowfullscreen></iframe> -->
+
+<iframe src="https://docs.google.com/file/d/1snktbznXz_4mWvqm4D-5vl1TxlrSc2sw/preview" width="100%" height="700px"></iframe>
