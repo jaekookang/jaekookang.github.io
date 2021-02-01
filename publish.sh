@@ -30,7 +30,8 @@ echo "Generating site"
 bundle exec jekyll build
 
 echo "Updating gh-pages branch"
-cd _site && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+cd _site && git pull
+git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
 
 echo "Pushing to github"
 git push --all
