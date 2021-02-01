@@ -28,17 +28,16 @@ Speech-Language-Hearing Sciences program at CUNY Graduate Center, NY USA.
 | DeepFake | on going | ![shrek](https://jaekookang.me/images/shrek.gif)  | <a href="https://colab.research.google.com/drive/1oMV186geYkiGmSbYtftTzQ16PH2Tlcsm?usp=sharing)" target="_blank">Link</a> |
 | Invertible Neural Net  | 90% | <img src="https://raw.githubusercontent.com/jaekookang/invertible_neural_networks/master/result/gauss_mixture.gif" width="300">  | <a href="https://github.com/jaekookang/invertible_neural_networks" target="_blank" >Link</a> |
 | Gradient-CAM | done | <img src="https://raw.githubusercontent.com/jaekookang/mnist-grad-cam/master/test.gif" target="_blank" > |  <a href="https://github.com/jaekookang/mnist-grad-cam" target="_blank">Link</a> |
-| Speech Inversion | 90% |  |  |
 | Face landmark alignment | done | ![face](https://jaekookang.me/images/jaekoo_face_align.png) |   |
 
-## Other projects
-- Interactive Linear algebra on the web ([Link]())
-- Forced alignment ([Link1](), [Link2]())
-- getVOT ([Link]())
+## Other projects (see: https://github.com/jaekookang)
+- Interactive Linear algebra on the web ([Link](https://linear-transformations.herokuapp.com/))
+- Forced alignment ([p2fa_py3](https://github.com/jaekookang/p2fa_py3), [korean_FA](https://github.com/hyung8758/Korean_FA))
+- getVOT
 - Uncontrolled manifold simulator
-- real-time speech vis (py)
-- python ema viewer
-- artic data extractor
-- artic data processor
+- Real-time speech visualizer
+- Python EMA viewer
+- Articulatory data extractor
+- Articulatory data processor
 
 
