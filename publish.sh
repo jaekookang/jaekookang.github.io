@@ -10,7 +10,7 @@
 
 if [ "`git status -s`" ]
 then
-    echo "The working directory is dirty. Please commit any pending changes."
+    echo "The working directory is messy. Please commit any pending changes."
     exit 1;
 fi
 
@@ -37,3 +37,6 @@ echo "Pushing to github"
 git push --all
 
 cd ..
+
+echo "Pulling changes from gh-pages"
+git pull
