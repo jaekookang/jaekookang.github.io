@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://jaekookang.me/portfolio/portfolio-1/</loc>
-</url>
-<url>
-<loc>https://jaekookang.me/portfolio/portfolio-2/</loc>
-</url>
-<url>
 <loc>https://jaekookang.me/posts/2012/08/blog-post-1/</loc>
 <lastmod>2012-08-14T00:00:00-07:00</lastmod>
 </url>
@@ -27,16 +21,12 @@
 <lastmod>2199-01-01T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>https://jaekookang.me/publication/2009-10-01-paper-title-number-1</loc>
-<lastmod>2009-10-01T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>https://jaekookang.me/publication/2010-10-01-paper-title-number-2</loc>
+<loc>https://jaekookang.me/projects/2010-10-01-second-project</loc>
 <lastmod>2010-10-01T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>https://jaekookang.me/publication/2015-10-01-paper-title-number-3</loc>
-<lastmod>2015-10-01T00:00:00-07:00</lastmod>
+<loc>https://jaekookang.me/projects/2020-12-14-flow-invertible-net-speech</loc>
+<lastmod>2020-12-14T00:00:00-08:00</lastmod>
 </url>
 <url>
 <loc>https://jaekookang.me/talks/2012-03-01-talk-1</loc>
@@ -78,6 +68,9 @@
 <loc>https://jaekookang.me/cv/</loc>
 </url>
 <url>
+<loc>https://jaekookang.me/explorations/</loc>
+</url>
+<url>
 <loc>https://jaekookang.me/markdown/</loc>
 </url>
 <url>
@@ -90,7 +83,7 @@
 <loc>https://jaekookang.me/portfolio/</loc>
 </url>
 <url>
-<loc>https://jaekookang.me/publications/</loc>
+<loc>https://jaekookang.me/projects/</loc>
 </url>
 <url>
 <loc>https://jaekookang.me/sitemap/</loc>
