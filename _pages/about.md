@@ -9,13 +9,20 @@ redirect_from:
 ---
 
 <br />
-Hi, this is Jaekoo Kang's personal homepage. I'm currently a Ph.D. Candidate in 
-Speech-Language-Hearing Sciences program at CUNY Graduate Center, NY USA.
+This is Jaekoo Kang's personal homepage. As of Sept. 2021, I received the Ph.D. degree from the Speech-Language-Hearing Sciences program at CUNY Graduate Center, NY USA.
+
+
+<br />
 
 My research interests are as follows:
 - Human **speech** production and perception
 - Multimodal **speech-text** representations
 - **Machine learning** and **deep learning** based language understanding
+
+<br />
+
+I am currently working at [i-SreamKids](http://www.i-screamkids.com/) developing deep-learning based applications in computer vision, natural language processing and speech recognition/synthesis algorithms.
+
 
 <br />
 
