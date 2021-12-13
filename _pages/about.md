@@ -21,7 +21,7 @@ My research interests are as follows:
 
 <br />
 
-I am currently working at [i-SreamKids](http://www.i-screamkids.com/) developing deep-learning based applications in computer vision, natural language processing and speech recognition/synthesis algorithms.
+I am currently working at [i-ScreamKids](http://www.i-screamkids.com/) developing deep-learning based applications which encompass topics of computer vision, natural language processing and speech recognition/synthesis.
 
 
 <br />
