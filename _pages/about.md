@@ -9,20 +9,29 @@ redirect_from:
 ---
 
 <br />
-This is Jaekoo Kang's personal homepage. As of Sept. 2021, I received the Ph.D. degree from the Speech-Language-Hearing Sciences program at CUNY Graduate Center, NY USA.
-
+Hi, I'm Jaekoo Kang.
+<br />
+안녕하세요. 강재구입니다.
 
 <br />
 
 My research interests are as follows:
 - Human **speech** production and perception
-- Multimodal **speech-text** representations
-- **Machine learning** and **deep learning** based language understanding
+- Multimodal **speech-text** and **image-text** representations
+- **Machine learning** and **deep learning** based language & image understanding
 
 <br />
 
-I am currently working at [i-ScreamKids](http://www.i-screamkids.com/) developing deep-learning based applications which encompass topics of computer vision, natural language processing and speech recognition/synthesis.
+I am currently working at [i-Scream arts](http://www.i-screamarts.com/) developing deep-learning based applications which encompass topics of computer vision, natural language processing and speech recognition/synthesis (since 2022).
 
+<br />
+
+Most of my recent research/work focus is into **understanding children's drawings**.
+- What do children draw?<sub>아이들은 무엇을 그릴까?</sub>
+- Why do children draw?<sub>아이들은 왜 그림을 그릴까?</sub>
+- How do they represent themselves and the world around them?<sub>어떻게 그림으로 자신과 세상을 표현할까?</sub>
+
+These topics are explored based on the digital drawing platform (called "[Art BonBon](https://bonbon.art/)").
 
 <br />
 

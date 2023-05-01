@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "강 재 구"
 title_separator          : "-"
 name                     : &name "Jaekoo Kang"
-description              : &description "Ph.D. in Speech-Language-Hearing Sciences (CUNY Graduate Center)"
+description              : &description "Director of AI Research at i-Scream arts; Ph.D. in Speech-Language-Hearing Sciences"
 url                      : https://jaekookang.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jaekookang.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jaekoo Kang"
-  avatar           : "profile_me.jpg"
-  bio              : "Ph.D. Candidate in Speech Science at CUNY Graduate Center, NY USA"
-  location         : "USA/Korea"
+  avatar           : "profile_me_mondrian.png"
+  bio              : "Director of AI Research at i-Scream arts (since 2022)"
+  location         : "Korea/USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GqQGuikAAAAJ&hl=en"

@@ -3,7 +3,9 @@
 # This script automate update website and publish to gh-pages
 #
 # 2020-11-13 jkang
-# 2021-02-01 updated 
+# 2021-02-01 jkang updated 
+# 2023-05-01 jkang updated
+#   - added source .env to add env variables
 #
 # See: https://gohugo.io/hosting-and-deployment/hosting-on-github/#github-user-or-organization-pages
 
