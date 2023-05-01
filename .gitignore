@@ -3,6 +3,7 @@ _prev
 .DS_Store
 _site
 vendor
+.env
 
 # Binaries for programs and plugins
 *.exe
