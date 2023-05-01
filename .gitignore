@@ -2,6 +2,7 @@
 _prev
 .DS_Store
 _site
+vendor
 
 # Binaries for programs and plugins
 *.exe

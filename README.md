@@ -23,3 +23,6 @@ This is due to the frequent error occuring when pushing commits to gh-pages bran
 ## Log
 - 2021-02-01 first uploaded
 - 2021-02-27 pages added
+- 2023-05-01 updated
+	- [ ] updated SSL certificate
+	- [x] updated personal details

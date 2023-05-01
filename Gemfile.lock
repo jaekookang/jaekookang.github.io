@@ -194,7 +194,6 @@ GEM
       jekyll-seo-tag (~> 2.0)
     jekyll-titles-from-headings (0.5.3)
       jekyll (>= 3.3, < 5.0)
-    jekyll-twitter-plugin (2.1.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     jemoji (0.12.0)
@@ -216,6 +215,8 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.3)
     multipart-post (2.1.1)
+    nokogiri (1.11.1-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.11.1-x86_64-darwin)
       racc (~> 1.4)
     octokit (4.20.0)
@@ -260,6 +261,7 @@ GEM
     zeitwerk (2.4.2)
 
 PLATFORMS
+  universal-darwin-22
   x86_64-darwin-20
 
 DEPENDENCIES
@@ -268,7 +270,6 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
-  jekyll-twitter-plugin
   webrick (~> 1.7)
 
 BUNDLED WITH
