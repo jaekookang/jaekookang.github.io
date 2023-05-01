@@ -27,6 +27,7 @@ echo "Removing existing files"
 rm -rf _site/*
 
 echo "Generating site"
+source .env
 bundle exec jekyll build
 
 echo "Updating gh-pages branch"
