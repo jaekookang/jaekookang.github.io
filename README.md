@@ -4,7 +4,8 @@
 This is due to the frequent error occuring when pushing commits to gh-pages branch.
 
 The main purpose of this site is to structure my career related items in order.
-Personal blogs will be relocated to maybe Notion pages.
+Personal blogs were planned to be relocated to maybe Notion pages.
+Well, maybe my personal blogs can also remain within this website.
 
 ## Note
 - Local build
@@ -33,3 +34,6 @@ Personal blogs will be relocated to maybe Notion pages.
 	- [x] updated SSL certificate
 	- [x] updated personal details
 	- [x] updated ruby version (2.3->3.1.3) using chruby (See: https://jekyllrb.com/docs/installation/macos/)
+- 2024-01-21 updated
+	- [x] connect DISQUS
+	- [x] updated 'posts' for writing posts (linking images based on 'posts' folder)
