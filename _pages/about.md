@@ -2,21 +2,40 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 ---
 
-Dr. Jaekoo Kang is a researcher and AI expert with extensive experience in both academia and industry. He holds a Ph.D. in Speech-Language-Hearing Sciences from the City University of New York and has advanced knowledge in speech production and articulatory phonology, contributing to several peer-reviewed publications. Professionally, Dr. Kang has led AI innovation as the Director of Research at i-Scream Arts, focusing on AI-driven digital drawing analysis and psychological evaluation. His expertise spans machine learning, computational modeling, and data analysis, with multiple patents in AI-based sentiment analysis, reflecting his impactful work at the intersection of technology and human behavior.
+ABOUT ME
+===
+
+<br />
+
+Hi, I'm Jaekoo. I'm a researcher and a developer in the domain of human speech production. Speaking is one of the primary function in human communication. Articulators such as the tongue 👅 and lips 👄 shape the output sound, which is ultimately delivered to the ear to the brain. Particularly, the continuous movement of articulators are decoded as a discrete concept in our mind. Isn't this super fascinating? This has motivated me to pursue my research interests and still I feel very much interested this "discrete infinity"<sup>1)</sup> in speech.
+
+<br />
 
 ---
 
-RESEARCH INTERESTS
-===
+# RESEARCH INTERESTS
+
+<br />
+
 - Speech production, articulatory phonology and phonetics
 - Variability and flexibility in skilled articulatory actions
 - Uncontrolled Manifold Framework
 - Articulation-Acoustics Mapping & Inversion
 - Machine learning, deep learning, and computational modeling in speech sciences
+
+<br />
+
+---
+
+<div style="font-size: smaller">
+  <div>
+    <sup>1)</sup> Studdert-Kennedy, M., & Goldstein, L. (2003). Launching Language: The Gestural Origin of Discrete Infinity. In M. Christiansen & S. Kirby (Eds.), <em>Language Evolution</em> (pp. 235–254). Oxford University Press.
+  </div>
+<div>
