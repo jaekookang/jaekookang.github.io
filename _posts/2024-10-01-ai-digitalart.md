@@ -10,7 +10,7 @@ tags:
 
 <div style="display: inline; max-width: 100%; height: auto;">
   <div style="text-align: center;">
-    <img src="/images/iscreamarts/아이스크림아트AI_이미지1.png"/>
+    <img src="/images/iscreamarts/iscreamart_ai_image1.png"/>
   </div>
   <!-- <p style="text-align: center; font-size: smaller">
     <a target="_blank" href="https://www.hankyung.com/article/2022111596825">파블로아트컴퍼니, 미국 실리콘밸리서 아트봉봉 소개 | 한국경제</a>
@@ -43,11 +43,11 @@ When I worked in i-Scream arts where making digital art education platform ("Art
 ![](/images/iscreamarts/AI그림심리검사-이미지2.png)
 ![](/images/iscreamarts/AI그림심리검사-이미지3.png) -->
 
-![](/images/iscreamarts/그림검사-PITR-이미지1.jpg)
+![](/images/iscreamarts/psych-pitr-1.jpg)
 <div style="display: flex; text-align: center; max-width: 30%; height: auto;">
-  <img src="/images/iscreamarts/AI그림심리검사-이미지1.png" /> 
-  <img src="/images/iscreamarts/AI그림심리검사-이미지2.png" /> 
-  <img src="/images/iscreamarts/AI그림심리검사-이미지3.png" /> 
+  <img src="/images/iscreamarts/psych-image1.png" /> 
+  <img src="/images/iscreamarts/psych-image2.png" /> 
+  <img src="/images/iscreamarts/psych-image3.png" /> 
 </div>
 
 <br />
@@ -59,9 +59,9 @@ When I worked in i-Scream arts where making digital art education platform ("Art
 
 <div style="display: inline; max-width: 100%; height: auto;">
   <div style="display: flex; text-align: center; max-width: 40%">
-    <img src="/images/iscreamarts/스케치_이미지1.webp" /> 
-    <img src="/images/iscreamarts/스케치_이미지2.webp" /> 
-    <img src="/images/iscreamarts/스케치_이미지3.webp" /> 
+    <img src="/images/iscreamarts/sketch-image1.jpeg" /> 
+    <img src="/images/iscreamarts/sketch-image2.jpeg" /> 
+    <img src="/images/iscreamarts/sketch-image3.jpeg" /> 
   </div>
 </div>
  
