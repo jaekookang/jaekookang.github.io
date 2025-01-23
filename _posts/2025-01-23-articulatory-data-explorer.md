@@ -18,4 +18,9 @@ tags:
 
 I'm currently working on this web documentation (gitbook) for curating and organizing articulatory/speech dataset. Articulatory data is very rare, difficult to try out, but useful in research and make various applications in clinical and educational areas.
 
+<div>
+  <p>Link: <a href="https://articulatory.gitbook.io/dataset" target="_blank">https://articulatory.gitbook.io/dataset</a></p>
+</div>
+
+
 250123 jkang
