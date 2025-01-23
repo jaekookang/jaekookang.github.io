@@ -13,8 +13,11 @@ npm run dev
 
 ## Deployment
 ```bash
-
+git add .
+git commit -m "[NOTES]"
+git push
 ```
 
 ---
 - 2024-11-04 updated with a new template
+- 2025-01-23 added `npm run dev` command to `package.json`
